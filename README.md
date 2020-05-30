@@ -1,6 +1,7 @@
 # TitleAPI
 # Require Spigot 1.8
 
+
 Pour send un Title via l'api écrivez la ligne suivant :
 
 Title.sendTitle(Player, String, String, int);
